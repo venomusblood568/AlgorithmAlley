@@ -1,0 +1,30 @@
+package com.coding;
+
+//creating the base class or superclass
+class baseclass{
+    int parent = 10;
+}
+//subclass class1 in the base class
+class subclass1 extends baseclass{
+    int child1 = 1;
+}
+//subclass class2 in the base class
+class subclass2 extends baseclass{
+    int child2 = 2;
+}
+//subclass class3 in the base class
+class subclass3 extends baseclass{
+    int child3 = 3;
+}
+public class hierarchical_inheritance {
+  public static void main(String args[]){
+      subclass1 c1 = new subclass1();
+      subclass2 c2 = new subclass2();
+      subclass3 c3 = new subclass3();
+
+      System.out.println("childclass1 " + c1.parent * c1.child1);
+      System.out.println("childclass2 "+ c2.parent * c2.child2);
+      System.out.println("childclass3 "+ c3.parent * c3.child3);
+
+  }
+}
