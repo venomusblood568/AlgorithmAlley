@@ -1,0 +1,28 @@
+package com.coding;
+
+class c {
+    public void disp(){
+        System.out.println("C");
+    }
+}
+class A extends c{
+    public void disp(){
+        System.out.println("A");
+    }
+}
+class B extends c{
+    public void disp(){
+        System.out.println("B");
+    }
+}
+class D extends A{
+    public void disp(){
+        System.out.println("D");
+    }
+}
+public class hybrid_{
+    public static void main(String args[]){
+        D obj = new D();
+        obj.disp();
+    }
+}
