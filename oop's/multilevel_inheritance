@@ -1,0 +1,33 @@
+/*
+The "public" keyword indicates that the method can be accessed and called from other parts of the program.
+The "void" keyword means that the method does not return any value after execution. Finally,
+the parentheses "()" indicate that the method doesn't take any parameters or arguments.
+* */
+package com.coding;
+
+class sHape{
+    public void display(){
+        System.out.println("inside display");
+    }
+}
+class reCtangle extends sHape{
+    public void areA(){
+        System.out.println("inside area");
+    }
+}
+class cube extends reCtangle{
+    public void volume(){
+        System.out.println("inside voulme");
+    }
+}
+public class multi_level_inheritance {
+    public static void main (String args[]){
+        cube CUBE = new cube();
+        CUBE.display();
+        CUBE.areA();
+        CUBE.volume();
+
+
+
+    }
+}
