@@ -1,6 +1,4 @@
 # DSA  material 
-1 dsa concept </br>
-2 dsa question </br>
-3 algo </br>
-4 leetcode </br>
-5 opp's </br>
+1 all the strivers question <br>
+2 leetcode<br>
+3 opp's <br>
