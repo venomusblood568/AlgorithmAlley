@@ -9,3 +9,4 @@ AlgorithmAlley Materials
 
 4.  MySQL: Delve into the world of relational databases and learn the intricacies of MySQL, a powerful and popular database management system.
 
+5. C =  Centralize the basics of C, compiling key problems in one place. Focus on mastering syntax and delve into challenging topics like pointers to ensure a solid understanding.
