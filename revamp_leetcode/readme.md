@@ -5,6 +5,6 @@ This is a list of questions I have completed on LeetCode, organized by difficult
 | Level  | Problem                                      | Date Completed |
 |--------|----------------------------------------------|----------------|
 | Easy   | Two Sum                         | 2024-02-19     |
-| Easy   | Palidrome Number          | 2024-02-16     |
-|   |        |  |
+| Easy   | Palidrome Number          | 2024-02-19     |
+| Easy  |  Roman to Integer      | 2024-02-22 |
 |  |        |    |
