@@ -7,4 +7,13 @@ This is a list of questions I have completed on LeetCode, organized by difficult
 | Easy   | Two Sum                         | 2024-02-19     |
 | Easy   | Palidrome Number          | 2024-02-19     |
 | Easy  |  Roman to Integer      | 2024-02-22 |
+| Easy  |  Plus one      |  2024-02-24  |
+|  |        |    |
+|  |        |    |
+|  |        |    |
+|  |        |    |
+|  |        |    |
+|  |        |    |
+|  |        |    |
+|  |        |    |
 |  |        |    |
