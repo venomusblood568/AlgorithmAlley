@@ -9,7 +9,7 @@ This is a list of questions I have completed on LeetCode, organized by difficult
 | Easy  |  Roman to Integer      | 2024-02-22 |
 | Easy  |  Plus one      |  2024-02-24  |
 | Easy   |Move Zeroes        | 2024-02-24   |
-|  |        |    |
+| Easy| Running sum of 1d array        | 2024-02-24  |
 |  |        |    |
 |  |        |    |
 |  |        |    |
