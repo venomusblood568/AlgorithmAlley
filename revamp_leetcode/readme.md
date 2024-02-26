@@ -12,6 +12,12 @@ This is a list of questions I have completed on LeetCode, organized by difficult
 | Easy| Running sum of 1d array        | 2024-02-24  |
 | Easy |  Find Pivot number      |  2024-02-25  |
 | Easy |  Majority element      |   2024-02-25 |
+| Easy | Fibonacci Number       |  2024-02-26  |
+| Easy |    Squares of a Sorted Array    |  2024-02-26  |
+|  Easy |Remove Duplicates from Sorted Array| 2024-02-26   |
+|  |        |    |
+|  |        |    |
+|  |        |    |
 |  |        |    |
 |  |        |    |
 |  |        |    |
