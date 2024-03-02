@@ -20,5 +20,10 @@ This is a list of LeetCode problems I have completed, organized by difficulty le
 | Easy  | Array | Squares of a Sorted Array | 2024-02-26 |
 | Easy  | Array | Remove Duplicates from Sorted Array | 2024-02-26 |
 | Easy  | Math  | Reverse Integer | 2024-02-27 |
-
+|Easy|Array| pascals triangle| 2024-02-28|
+|Easy | Array| find Pivot number | 2024-02-28|
+|Medium|Array|3 sum | 2024-02-29|
+|Medium|Array | Merge Intervals|204-03-01|
+|Medium|Array|product of array except|2024-03-01|
+|Medium |Array| subarray sum equal k | 2024-02-02|
 
