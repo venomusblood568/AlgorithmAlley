@@ -26,4 +26,4 @@ This is a list of LeetCode problems I have completed, organized by difficulty le
 |Medium|Array | Merge Intervals|204-03-01|
 |Medium|Array|product of array except|2024-03-01|
 |Medium |Array| subarray sum equal k | 2024-03-02|
-| Easy | Arrat | Next permutation | 2024-03-03 | 
+| Medium | Array | Next permutation | 2024-03-03 | 
